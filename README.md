@@ -1,7 +1,7 @@
 # datacleaningchallenge
 The fifa21 dataset contains some info. on some football players in fifa21.
 There's a total of are 18979 players(i.e rows) in this dataset and 76 columns. 
-The goal of this challenge is to clean up the data and get it ready for EDA. We'll be doing a teeny-weeny of analysis along the way..hehe.
+The goal of this challenge is to clean up the data and get it ready for EDA. We'll be doing a bit of analysis along the way..hehe.
 
 What each columns contains...
 
